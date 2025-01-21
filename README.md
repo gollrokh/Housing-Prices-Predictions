@@ -23,7 +23,4 @@ Through this project, I learned to:
 - `submission.csv`: The final submission file containing predictions for the test dataset.
 
 
-## Running the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/competition_name.git
+
